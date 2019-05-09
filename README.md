@@ -1,0 +1,2 @@
+# TicketBucketRu
+University course project
