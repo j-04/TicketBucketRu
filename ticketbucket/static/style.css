@@ -1,0 +1,10 @@
+.center {
+    position: relative;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.body {
+    background-image: url(images/architecture-attractive-background-988873.jpg)
+}
